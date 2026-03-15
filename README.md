@@ -79,27 +79,9 @@ Experimenting with LLM-driven game systems, AI storytelling engines, and player-
 
 ---
 
-## 📊 GitHub Stats
-
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan-Jiangyt&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Jiangyt&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ethan-Jiangyt&theme=tokyonight)
-
----
-
-## 🏆 Achievements
-
-![Profile views](https://komarev.com/ghpvc/?username=Ethan-Jiangyt&color=blue)
-
-![GitHub followers](https://img.shields.io/github/followers/Ethan-Jiangyt?style=social)
-
----
-
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ethan-blue?logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/yiteng-jiang-909086150/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ethan-blue?logo=linkedin)](https://www.linkedin.com/in/yiteng-jiang-909086150/)
 
 [![Email](https://img.shields.io/badge/Email-contact-red)](mailto:rjiang6666@gmail.com)
 
